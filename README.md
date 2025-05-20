@@ -4,6 +4,8 @@
 
 ![](https://github.com/leoschmoll/Tableau-Project/blob/main/HR%20Dashboard%20-%20Summary.png)
 
+![](https://github.com/leoschmoll/Tableau-Project/blob/main/HR%20Dashboard%20-%20Details.png)
+
 ## Problem Statement
 
 These data used here will be used to show in this MS Power BI dashboard all the information and analytics about the number of votes and their respective ratings of films, taking as a reference some aspects such as the location of the movie, its genre without forgetting the list of titles.
