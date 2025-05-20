@@ -2,7 +2,7 @@
 
 ### Dashboard Link : https://public.tableau.com/app/profile/leonardo.schmoll/viz/HRDashboards_17476687386670/HRDetails
 
-!
+https://github.com/leoschmoll/Tableau-Project/blob/main/HR%20Dashboard%20-%20Summary.png
 
 ## Problem Statement
 
