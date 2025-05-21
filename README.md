@@ -2,10 +2,6 @@
 
 ### Dashboard Link : https://public.tableau.com/app/profile/leonardo.schmoll/viz/HRDashboards_17476687386670/HRDetails
 
-![](https://github.com/leoschmoll/Tableau-Project/blob/main/HR%20Dashboard%20-%20Summary.png)
-
-![](https://github.com/leoschmoll/Tableau-Project/blob/main/HR%20Dashboard%20-%20Details.png)
-
 ### Business need.
 
 A HR manager wants a comprehensive dashboard to analyze human resources data, providing both summary views for high-level insights and detailed employee records for in-depth analysis
@@ -40,12 +36,17 @@ The income analysis section should focus on salary-related metrics, including:
 Present how the age correlate with the salary for employees in each department.
 Employee Records View
 
+![](https://github.com/leoschmoll/Tableau-Project/blob/main/HR%20Dashboard%20-%20Summary.png)
+
 ### Detailed View
 
 Provide a comprehensive list of all employees with necessary information such as name, department, position, gender, age, education, and salary.
 Users should be able to filter the list based on any of the available columns.
 
--------
+![](https://github.com/leoschmoll/Tableau-Project/blob/main/HR%20Dashboard%20-%20Details.png)
+
+---------
+
 
 ## Troubleshooting Process
 
@@ -55,11 +56,12 @@ The theme selected to apply to this project is Dark. So for base colors I've cho
 This solution has three phases:
 
 ####  Phase 1. Data Prepaparation
-  - Step 1: Collect Data.
-  - Step 2: Connect to Data
-  - Step 3: Check Data Quality
-  - Step 4: Check Data Types
-  - Step 5: Understand & Explore Data
+  - Collect Data. 
+      This dataset was created with a prompt combination of ChapGPT and Faker Libray, extracted from @DatawithBaraa YouTube channel.
+  - Connect to Data.
+  - Check Data Quality
+  - Check Data Types
+  - Understand & Explore Data
 
 #### Phase 2. Data Analysis
   - Analyse user Requirements and choosing charts.
