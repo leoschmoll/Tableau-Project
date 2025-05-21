@@ -1,4 +1,4 @@
-# HR DASHBOARDS
+# HR Analysis
 
 ### Dashboard Link : https://public.tableau.com/app/profile/leonardo.schmoll/viz/HRDashboards_17476687386670/HRDetails
 
