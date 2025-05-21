@@ -77,6 +77,7 @@ This solution has three phases:
 <img src="https://github.com/leoschmoll/Tableau-Project/blob/main/Gender%20-%20Pie%20chart.png" width=500 height=300>
 <img src="https://github.com/leoschmoll/Tableau-Project/blob/main/States%20-%20Map.png" width=500 height=300>
 <img src="https://github.com/leoschmoll/Tableau-Project/blob/main/Education%20%26%20Performance%20-%20Heat%20map.png" width=500 height=300>
+<img src="https://github.com/leoschmoll/Tableau-Project/blob/main/Gender%20%26%20Education%20-%20Barbell%20chart.png" width=500 height=300>
 
 
 #### Phase 3. Storytelling
