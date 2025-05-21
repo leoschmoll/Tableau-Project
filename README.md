@@ -39,13 +39,13 @@ The income analysis section should focus on salary-related metrics, including:
 Present how the age correlate with the salary for employees in each department.
 Employee Records View
 
+### Detailed View
+
 Provide a comprehensive list of all employees with necessary information such as name, department, position, gender, age, education, and salary.
 Users should be able to filter the list based on any of the available columns.
 
-
-### Detailed View
-
 -------
+
 
 ####  Theme and Colors.
 The theme selected to apply to this project is Dark. So for base colors I've chosen dark gray (#777777), a very light gray (#f5f5f5), and lastly for customs colors I've   chosen green (#03c4a1) and, to contrast, a pink (#c52a87)  
