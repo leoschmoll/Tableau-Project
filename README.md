@@ -14,75 +14,63 @@ These data used here will be used to show in this MS Power BI dashboard all the 
 ### Process
 
 ####  Theme and Colors.
-  The theme selected to apply to this project is Dark. So for base colors I've chosen dark gray (#777777), a very light gray (#f5f5f5), and lastly for customs colors I've   chosen green (#03c4a1) and, to contrast, a pink (#c52a87)  
-
-####  Phase 1.
-- Step 2 : Getting the data and necessary images for the project.
-- Step 2 : Importing the data (csv file).
-- Step 3 : Preparing and CLeaning the data. Removing and renaming columns. Standardizing data types. Filtering blank and null values
+The theme selected to apply to this project is Dark. So for base colors I've chosen dark gray (#777777), a very light gray (#f5f5f5), and lastly for customs colors I've   chosen green (#03c4a1) and, to contrast, a pink (#c52a87)  
 
 
+This project has three phases:
+
+####  Phase 1. Data Prepaparation
+  - Step 1: Collect Data.
+  - Step 2: Connect to Data
+  - Step 3: Check Data Quality
+  - Step 4: Check Data Types
+  - Step 5: Understand & Explore Data
+
+#### Phase 2. Data Analysis
+  - Collect Data.
+  - Connect to Data.
+  - Data Modelling.
+  - Check Data Quality.
+  - Check Data Types.
+  - Understand & Explore Data.
+
+#### Phase 3. Storytelling
+  - Analyse user Requirements and choosing charts.
+  - Initial Format of the sheet.
+  - Creation of Calculkated fields and testing sheet.
+  - Building different charts.
+  - Formatting charts.
 
 
-- Step 4 : Data Modeling. Building the base background  for the dashboard and setting de images and logos.
+User Story - HR Dashboard
+As an HR manager, I want a comprehensive dashboard to analyze human resources data, providing both summary views for high-level insights and detailed employee records for in-depth analysis
 
-![Background](https://github.com/leoschmoll/Netflix-Report/assets/152095978/7142b599-f447-493b-9314-f02b0527c44d)
+Summary View
 
+The summary view should be divided into three main sections: Overview, Demographics, and Income Analysis
 
-[Background.pptx](https://github.com/leoschmoll/Netflix-Report/files/15017108/Background.pptx)
+Overview
+The Overview section should provide a snapshot of the overall HR metrics, including:
 
+Display the total number of hired employees, active employees, and terminated employees.
+Visualize the total number of hired and terminated employees over the years.
+Present a breakdown of total employees by department and job titles.
+Compare total employees between headquarters (HQ) and branches (New York is the HQ)
+Show the distribution of employees by city and state.
+Demographics
+The Demographics section should offer insights into the composition of the workforce, including:
 
-- Step 5 : Creation of the Funnel chart. Setting the dynamic gradient color ranking.
-  
-![funnel_chart](https://github.com/leoschmoll/Netflix-Report/assets/152095978/a0ec9696-0dd0-4a14-972b-d4516ef0f409)
+Present the gender ratio in the company.
+Visualize the distribution of employees across age groups and education levels.
+Show the total number of employees within each age group.
+Show the total number of employees within each education level.
+Present the correlation between employees’s educational backgrounds and their performance ratings.
+Income
+The income analysis section should focus on salary-related metrics, including:
 
+Compare salaries across different education levels for both genders to identify any discrepancies or patterns.
+Present how the age correlate with the salary for employees in each department.
+Employee Records View
 
-- Step 6 : Creation and customizaction of the new featured Referenced label cards with corresponding measures.
-
-![referenced_cards](https://github.com/leoschmoll/Netflix-Report/assets/152095978/70423e2d-2827-4de9-8dd6-868e819f543c)
-
-- Step 7 : Setting of the movie table with it filters. 
-
-![table_rating](https://github.com/leoschmoll/Netflix-Report/assets/152095978/bd2c6b4b-bed9-4352-8068-eb72f485576b)
-
-- Step 8 : Creation of the main Slicers.
-
-![main_slicer ](https://github.com/leoschmoll/Netflix-Report/assets/152095978/e0268421-82d7-43c3-a6dc-acf4223d884a)
-
-- Step 9 : Creation of the dual axis bar chart.
-
-![bar_chart](https://github.com/leoschmoll/Netflix-Report/assets/152095978/bd4c9fd2-8729-4c6a-9039-3894525bc4f3)
-
-- Step 10 : Creation of the tale linked to mapping imformation.
-- Step 10 : Geomapping on  Azure Maps platform with corresponding slicers. 
-
-![azure_map](https://github.com/leoschmoll/Netflix-Report/assets/152095978/90192578-34fe-406e-bcba-6aee29ec5b5e)
-
-- Step 11 : Step 18 : Publish the report into Microsoft Power BI Service.
-
-
-## Insights
-
-A single page report was created on Power BI Desktop & it was then published to Power BI Service.
-
-Following inferences can be drawn from the dashboard;
-
-### Resulting information
-
-   Total Numbers of Movie Titles = 2620 
-
-   Total Numbers of TV Shows = 2346
-
-   Total Numbers of Movie Votes = 74M
-
-   Total Numbers of TV Shows Votes = 42M
-
-   Title with the highest number of Votes = "The Lord of the Rings: The Fellowship of the Ring - (Movie)"
-   
-   Title with the highest Rating = "Breaking Bad - (TV Show)"
-
-   Country with the highest number of titles = "United States"
-
-   Gender with the highest average rating = "War"
-
-   Genre with the highest number of titles = "Comedy"
+Provide a comprehensive list of all employees with necessary information such as name, department, position, gender, age, education, and salary.
+Users should be able to filter the list based on any of the available columns.
