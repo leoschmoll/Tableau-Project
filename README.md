@@ -36,7 +36,7 @@ The income analysis section should focus on salary-related metrics, including:
 Present how the age correlate with the salary for employees in each department.
 Employee Records View
 
-
+![](https://github.com/leoschmoll/Tableau-Project/blob/main/HR%20Dashboard%20-%20Summary.png)
 <img src="https://github.com/leoschmoll/Tableau-Project/blob/main/HR%20Dashboard%20-%20Summary.png" width=600 height=400>
 
 ### Detailed View
