@@ -65,8 +65,7 @@ This solution has three phases:
   - Check Data Types
   - Understand & Explore Data.
 
-  ![](https://github.com/leoschmoll/Tableau-Project/blob/main/Data%20Prep.png)
-  <img src="https://github.com/leoschmoll/Tableau-Project/blob/main/Data%20Prep.png" width=600 height=400>
+   <img src="https://github.com/leoschmoll/Tableau-Project/blob/main/Data%20Prep.png" width=600 height=400>
 
 #### Phase 2. Data Analysis
   - Analyse user requirements and choosing charts.
@@ -74,6 +73,8 @@ This solution has three phases:
   - Creation of Calculkated fields and testing sheet.
   - Building different charts.
   - Formatting charts.
+
+<img src="https://github.com/leoschmoll/Tableau-Project/blob/main/Job%20Titles%20-%20bar%20chart.png" width=600 height=400>
 
 #### Phase 3. Storytelling
   - Plan the dashboar(mockups).
