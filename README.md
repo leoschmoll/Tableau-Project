@@ -11,9 +11,13 @@
 These data used here will be used to show in this MS Power BI dashboard all the information and analytics about the number of votes and their respective ratings of films, taking as a reference some aspects such as the location of the movie, its genre without forgetting the list of titles.
 
 
-### Steps taken
+### Process
 
-- Step 1 : Getting the data and necessary images for the project.
+####  Theme and Colors.
+  The theme selected to apply to this project is Dark. So for base colors I've chosen dark gray (#777777), a very light gray (#f5f5f5), and lastly for customs colors I've   chosen green (#03c4a1) and, to contrast, a pink (#c52a87)  
+
+####  Phase 1.
+- Step 2 : Getting the data and necessary images for the project.
 - Step 2 : Importing the data (csv file).
 - Step 3 : Preparing and CLeaning the data. Removing and renaming columns. Standardizing data types. Filtering blank and null values
 
