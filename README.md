@@ -37,7 +37,6 @@ Present how the age correlate with the salary for employees in each department.
 Employee Records View
 
 ![](https://github.com/leoschmoll/Tableau-Project/blob/main/HR%20Dashboard%20-%20Summary.png)
-<img src="https://github.com/leoschmoll/Tableau-Project/blob/main/HR%20Dashboard%20-%20Summary.png" width=600 height=400>
 
 ### Detailed View
 
@@ -74,7 +73,7 @@ This solution has three phases:
   - Building different charts.
   - Formatting charts.
 
-<img src="https://github.com/leoschmoll/Tableau-Project/blob/main/Job%20Titles%20-%20bar%20chart.png" width=600 height=400>
+<img src="https://github.com/leoschmoll/Tableau-Project/blob/main/Job%20Titles%20-%20bar%20chart.png" width=500 height=300>
 
 #### Phase 3. Storytelling
   - Plan the dashboar(mockups).
