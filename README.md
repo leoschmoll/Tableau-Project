@@ -62,21 +62,22 @@ This solution has three phases:
   - Step 5: Understand & Explore Data
 
 #### Phase 2. Data Analysis
-  - Collect Data.
-  - Connect to Data.
-  - Data Modelling.
-  - Check Data Quality.
-  - Check Data Types.
-  - Understand & Explore Data.
-
-#### Phase 3. Storytelling
   - Analyse user Requirements and choosing charts.
   - Initial Format of the sheet.
   - Creation of Calculkated fields and testing sheet.
   - Building different charts.
   - Formatting charts.
 
+#### Phase 3. Storytelling
+  - Plan the dashboar(mockups).
+  - Create containeer structure.
+  - Put all together.
+  - Fix colors and fonts sizes.
+  - Fix spacing (padding).
+  - Refine tooltips.
+  - Add filters and icons.
+
 ---
-P
+
 
 
