@@ -90,6 +90,9 @@ This solution has three phases:
   - Refine tooltips.
   - Add filters and icons.
 
+<img src="https://github.com/leoschmoll/Tableau-Project/blob/main/HR%20Dashboard%20-%20Summary%20-%20mockup.png" width=500 height=300>
+<img src="https://github.com/leoschmoll/Tableau-Project/blob/main/HR%20Dashboard%20-%20Details%20-%20mockup.png" width=500 height=300>
+
 ---
 
 
