@@ -66,6 +66,7 @@ This solution has three phases:
   - Understand & Explore Data.
 
   ![](https://github.com/leoschmoll/Tableau-Project/blob/main/Data%20Prep.png)
+  <img src="https://github.com/leoschmoll/Tableau-Project/blob/main/Data%20Prep.png" width=600 height=400>
 
 #### Phase 2. Data Analysis
   - Analyse user requirements and choosing charts.
