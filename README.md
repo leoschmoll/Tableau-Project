@@ -100,7 +100,7 @@ This solution has three phases:
 Backgrounds were designed with Figma software to improve the user interface experience.
 
 <img src="https://github.com/leoschmoll/Tableau-Project/blob/main/background%20dashbaord%20summary.png" width=500 height=300>
-<img src="https://github.com/leoschmoll/Tableau-Project/blob/main/background%20dashbaord%20details.png)" width=500 height=300>
+<img src="https://github.com/leoschmoll/Tableau-Project/blob/main/background%20dashbaord%20details.png" width=500 height=300>
 
 ------
 
