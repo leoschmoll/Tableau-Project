@@ -37,7 +37,7 @@ Present how the age correlate with the salary for employees in each department.
 Employee Records View
 
 ![](https://github.com/leoschmoll/Tableau-Project/blob/main/HR%20Dashboard%20-%20Summary.png)
-src="[url](https://github.com/leoschmoll/Tableau-Project/blob/main/HR%20Dashboard%20-%20Summary.png)" width=200 height=200
+<img src="https://github.com/leoschmoll/Tableau-Project/blob/main/HR%20Dashboard%20-%20Summary.png" width=600 height=300>
 
 ### Detailed View
 
