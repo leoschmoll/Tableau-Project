@@ -73,7 +73,9 @@ This solution has three phases:
   - Building different charts.
   - Formatting charts.
 
-<img src="https://github.com/leoschmoll/Tableau-Project/blob/main/Job%20Titles%20-%20bar%20chart.png" width=500 height=300> | <img src="https://github.com/leoschmoll/Tableau-Project/blob/main/Gender%20-%20Pie%20chart.png" width=500 height=300>
+<img src="https://github.com/leoschmoll/Tableau-Project/blob/main/Job%20Titles%20-%20bar%20chart.png" width=500 height=300> 
+<img src="https://github.com/leoschmoll/Tableau-Project/blob/main/Gender%20-%20Pie%20chart.png" width=500 height=300>
+<img src="https://github.com/leoschmoll/Tableau-Project/blob/main/States%20-%20Map.png" width=500 height=300>
 
 #### Phase 3. Storytelling
   - Plan the dashboar(mockups).
