@@ -59,12 +59,15 @@ This solution has three phases:
   - Collect Data. 
       This dataset was created with a prompt combination of ChapGPT and Faker Libray, extracted from @DatawithBaraa YouTube channel.
   - Connect to Data.
+  - Data Modeling.
   - Check Data Quality
   - Check Data Types
-  - Understand & Explore Data
+  - Understand & Explore Data.
+
+  ![](https://github.com/leoschmoll/Tableau-Project/blob/main/Data%20Prep.png)
 
 #### Phase 2. Data Analysis
-  - Analyse user Requirements and choosing charts.
+  - Analyse user requirements and choosing charts.
   - Initial Format of the sheet.
   - Creation of Calculkated fields and testing sheet.
   - Building different charts.
