@@ -47,12 +47,12 @@ Users should be able to filter the list based on any of the available columns.
 
 -------
 
+## Troubleshooting Process
 
 ####  Theme and Colors.
 The theme selected to apply to this project is Dark. So for base colors I've chosen dark gray (#777777), a very light gray (#f5f5f5), and lastly for customs colors I've   chosen green (#03c4a1) and, to contrast, a pink (#c52a87)  
 
-
-This project has three phases:
+This solution has three phases:
 
 ####  Phase 1. Data Prepaparation
   - Step 1: Collect Data.
@@ -75,6 +75,8 @@ This project has three phases:
   - Creation of Calculkated fields and testing sheet.
   - Building different charts.
   - Formatting charts.
+
+--
 
 
 
